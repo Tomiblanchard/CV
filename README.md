@@ -29,7 +29,8 @@ I have always been excited by technology and wanted to learn how to become a dev
 ######Back-end
 - [x] Ruby
 - [x] Rails 
-- [x] Sinatra 
+- [x] Sinatra
+- [x] NodeJS
 - [x] PostgreSQL database management
 - [x] DataMapper object relational mapper
 - [x] Bcrypt encryption
@@ -41,6 +42,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 - [x] CSS3
 - [x] Javascript
 - [x] jQuery
+- [x] AngularJS
 - [x] AJAX
 - [x] Bootstrap
 - [x] Responsive design
