@@ -2,6 +2,14 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+Recent Projects
+---------------
+
+| [Movies Around Me] |
+|:--------------|
+| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: AngularJS, NodeJS (Express), Bootstrap<br> [View Movies Around Me] |
+
+
 Web Development
 ----------------
 
