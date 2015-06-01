@@ -81,14 +81,14 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ## Experience
 
-#### Catcha Group(http://www.catchagroup.com/)
+#### [Catcha Group](http://www.catchagroup.com/)
 #####Business Development Intern
 ######Full time, July to September 2014 &nbsp; | &nbsp; Kuala Lumpur, Malaysia 
 
-#### Idealista.com(http://www.idealista.com)
+#### [Idealista.com](http://www.idealista.com)
 #####Community Management Intern
 ######Full time, July to September 2014 &nbsp; | &nbsp; Madrid, Spain 
 
-#### Seloger.com(http://www.seloger.com/)
+#### [Seloger.com](http://www.seloger.com/)
 #####SEO/SEM and Google Analytics Intern
 ######Full time, July to September 2014 &nbsp; | &nbsp; Paris, France
