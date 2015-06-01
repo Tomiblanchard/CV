@@ -5,7 +5,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Recent Projects
 ---------------
 
-| [Movies Around Me] |
+| [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) |
 |:--------------|
 | Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: AngularJS, NodeJS (Express), Bootstrap<br> [View Movies Around Me](https://www.moviesaroundme.com) |
 
@@ -17,12 +17,12 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ####[Makers Academy](https://www.makersacademy.com)
 #####Web Development Intensive Course
-######Full time, August to October 2014 &nbsp; | &nbsp; London, United Kingdom
+######Full time, March to June 2015 &nbsp; | &nbsp; London, United Kingdom
 - Highly selective 12 week bootcamp style course
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
 - Two-week final team project to bring it all together
-- Built portfolio of projects, which are found on [Github]
+- Built portfolio of projects, which are found on [Github](https://github.com/Tomiblanchard)
 
 #####Skills Learned
 
