@@ -1,6 +1,6 @@
 ## Tomi Blanchard
 
-Technology and Emerging Markets enthusiast. Web lover.
+Technology and Emerging Markets Enthusiast. 
 
 Recent Projects
 ---------------
