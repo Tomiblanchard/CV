@@ -81,7 +81,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ## Experience
 
-#### [Catcha Group](http://www.catchagroup.com/)
+#### [Catcha Group](https://en.wikipedia.org/wiki/Catcha_Group)
 #####Business Development Intern
 ######Full time, July to September 2014 &nbsp; | &nbsp; Kuala Lumpur, Malaysia 
 
