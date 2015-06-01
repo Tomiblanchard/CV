@@ -1,6 +1,6 @@
 ## Tomi Blanchard
 
-Technology and Emerging Markets Enthusiast. 
+Web Lover. Emerging Markets Enthusiast. Passionate junior full stack web developer. I love to write clean, lean and fun code. In March 2015, I began a 12-weeks immersive and intensive web-development course at Makers Academy in London, during which I met a lot of amazing people, wrote a lot of code and worked on great projects!
 
 Recent Projects
 ---------------
