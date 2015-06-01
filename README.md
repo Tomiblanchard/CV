@@ -7,7 +7,7 @@ Recent Projects
 
 | [Movies Around Me] |
 |:--------------|
-| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: AngularJS, NodeJS (Express), Bootstrap<br> [View Movies Around Me] |
+| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: AngularJS, NodeJS (Express), Bootstrap<br> [View Movies Around Me](https://www.moviesaroundme.com) |
 
 
 Web Development
@@ -15,7 +15,7 @@ Web Development
 
 I have always been excited by technology and wanted to learn how to become a developer. I decided I wanted to accelerate my learning by joining Makers Academy in London.
 
-####[Makers Academy]
+####[Makers Academy](https://www.makersacademy.com)
 #####Web Development Intensive Course
 ######Full time, August to October 2014 &nbsp; | &nbsp; London, United Kingdom
 - Highly selective 12 week bootcamp style course
