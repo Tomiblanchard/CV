@@ -51,9 +51,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
       <br>CSS3
       <br>jQuery
       <br>AJAX
-      <br>Handlebars
       <br>Heroku
-      <br>ERB, EJS, Slim, HAML.
+      <br>ERB, HAML.
     </td>
   </tr>
    <tr>
