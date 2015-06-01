@@ -70,8 +70,8 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ## Education
 
-#### Hult International Business School  (start_date to end_date)
-#####BBA(Hons) in Finance & Accounting (CGPA 3.75 / 4.0 ; 1st)
+#### Hult International Business School
+#####BBA (Hons) in Finance & Accounting (CGPA 3.75 / 4.0 ; 1st)
 ######Full time, September 2013 to March 2015 &nbsp; | &nbsp; London, United Kingdom
 
 - Voted Outstanding New Student of the Year out of 350+ by peers, sponsored by IBM
@@ -79,11 +79,16 @@ I have always been excited by technology and wanted to learn how to become a dev
 - Awarded Dean's Scholarship for CGPA of 3.67+
 - Elected Student Body Representative
 
-#### Any other qualifications
-
 ## Experience
 
-**Catcha Group** (July to Sept 2014)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Catcha Group(http://www.catchagroup.com/)
+#####Business Development Intern
+######Full time, July to September 2014 &nbsp; | &nbsp; Kuala Lumpur, Malaysia 
+
+#### Idealista.com(http://www.idealista.com)
+#####Community Management Intern
+######Full time, July to September 2014 &nbsp; | &nbsp; Madrid, Spain 
+
+#### Seloger.com(http://www.seloger.com/)
+#####SEO/SEM and Google Analytics Intern
+######Full time, July to September 2014 &nbsp; | &nbsp; Paris, France
