@@ -89,8 +89,8 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 #### [Idealista.com](http://www.idealista.com)
 #####Community Management Intern
-######Full time, July to September 2014 &nbsp; | &nbsp; Madrid, Spain 
+######Full time, February to March 2012 &nbsp; | &nbsp; Madrid, Spain 
 
 #### [Seloger.com](http://www.seloger.com/)
 #####SEO/SEM and Google Analytics Intern
-######Full time, July to September 2014 &nbsp; | &nbsp; Paris, France
+######Full time, May to Jube 2011 &nbsp; | &nbsp; Paris, France
