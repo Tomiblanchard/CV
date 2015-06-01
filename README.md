@@ -2,7 +2,70 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+## Technical Skills
+
+<table>
+  <tr>
+    <td>
+    <h4>Methodology</h4>
+    </td>
+    <td>
+    Test-Driven Development (TDD)
+    <br>Behavior-Driven Development (BDD)
+    <br>Agile Methodology & Best Practices
+    <br>SOLID Design Principles
+    <br>Pair Programming
+    <br>Version Control with Git
+    </td>
+  </tr>
+  <tr>
+    <td><h4>Languages</h4></td>
+    <td>
+      Ruby
+      <br>Javascript
+    </td>
+  </tr>
+  <tr>
+    <td><h4>Frameworks</h4></td>
+    <td>
+      Sinatra
+      <br>Rails
+      <br>ExpressJS on NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td><h4>Test Frameworks</h4></td>
+    <td>
+      RSpec
+      <br>Cucumber
+      <br>Capybara
+      <br>Mocha
+      <br>Chai
+      <br>Jasmine
+    </td>
+  </tr>
+  <tr>
+    <td><h4>Front-End Skills</h4></td>
+    <td>
+      HTML5
+      <br>CSS3
+      <br>jQuery
+      <br>AJAX
+      <br>Handlebars
+      <br>Heroku
+      <br>ERB, EJS, Slim, HAML.
+    </td>
+  </tr>
+   <tr>
+    <td><h4>Databases and ORMs</h4></td>
+    <td>
+      PostgresQL
+      <br>Datamapper
+      <br>ActiveRecord
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
 #### This Skill
 
