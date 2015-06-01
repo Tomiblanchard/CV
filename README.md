@@ -70,7 +70,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ## Education
 
-#### Hult International Business School
+#### [Hult International Business School](http://www.hult.edu/)
 #####BBA (Hons) in Finance & Accounting (CGPA 3.75 / 4.0 ; 1st)
 ######Full time, September 2013 to March 2015 &nbsp; | &nbsp; London, United Kingdom
 
