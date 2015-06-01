@@ -7,7 +7,7 @@ Recent Projects
 
 | [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) |
 |:--------------|
-| Final Makers Academy group project completed with three other team members. Find the movies playing in the closest cinemas around you.<br> <br> Technologies: AngularJS, NodeJS (Express), Bootstrap.<br> [View Movies Around Me](https://www.moviesaroundme.com) |
+| Final Makers Academy group project completed with three other team members. <br> Find the movies playing in the closest cinemas around you.<br> Technologies: AngularJS, NodeJS (Express), Bootstrap.<br> [View Movies Around Me](https://www.moviesaroundme.com) |
 
 
 Web Development
