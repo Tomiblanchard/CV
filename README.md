@@ -24,7 +24,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 - Two-week final team project to bring it all together
 - Built portfolio of projects, which are found on [Github](https://github.com/Tomiblanchard)
 
-####Not a CS graduate
+#####Not a CS graduate
 
 Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to;
 
