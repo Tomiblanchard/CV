@@ -5,13 +5,9 @@ Web lover. Emerging markets enthusiast. Passionate junior full stack web develop
 Selected Projects
 ---------------
 
-| [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) |
-|:--------------|
-| Final Makers Academy group project completed with three other team members. <br> Find the movies playing in the closest cinemas around you.<br> Technologies: AngularJS, NodeJS (Express), Bootstrap.<br> [View Movies Around Me](https://www.moviesaroundme.com) |
-
 | [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) | [MakerMix](https://github.com/Makermix/makermix) | [Takeaway Challenge](https://github.com/Tomiblanchard/takeaway-challenge) |
 | :---: | :---: | :---: |
-| Find the movies playing in the closest cinemas around you. | Match Makers for Pair Programming. | Order a Takeaway. |
+| Find the movies in the closest cinemas around you. | Match Makers for Pair Programming. | Order a Takeaway. |
 | 4-people, 2 weeks | 4-people, 2 days | Solo, 1 weekend |
 | AngularJS, NodeJS | Rails, PostgreSQL | Ruby, Twilio API |
 
