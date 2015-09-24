@@ -2,12 +2,17 @@
 
 Web lover. Emerging markets enthusiast. Passionate junior full stack web developer. I love to write clean, lean and fun code. In March 2015, I began a 12-weeks immersive and intensive web-development course (while finishing University) at Makers Academy, during which I met a lot of amazing people, wrote a lot of code and worked on great projects!
 
-Recent Projects
+Selected Projects
 ---------------
 
 | [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) |
 |:--------------|
 | Final Makers Academy group project completed with three other team members. <br> Find the movies playing in the closest cinemas around you.<br> Technologies: AngularJS, NodeJS (Express), Bootstrap.<br> [View Movies Around Me](https://www.moviesaroundme.com) |
+
+| [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) | [MakerMix](https://github.com/Makermix/makermix) | [Takeaway Challenge](https://github.com/Tomiblanchard/takeaway-challenge) |
+| :---: | :---: | :---: |
+| 4-people, 2 weeks | 4-people, 2 days | Solo, 1 weekend |
+| AngularJS, NodeJS | Rails, PostgreSQL | Ruby, Twilio API |
 
 
 Web Development
@@ -26,7 +31,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 #####Not a CS graduate
 
-Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to;
+Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to:
 
 - Unlearn 3 years of mostly superceded dogma with no real-world experience  
 - Contribute immediately with practical knowledge of researching, designing, testing, developing, debugging and deploying  
