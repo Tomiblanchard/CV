@@ -7,7 +7,7 @@ Selected Projects
 
 | [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2) | [MakerMix](https://github.com/Makermix/makermix) | [Takeaway Challenge](https://github.com/Tomiblanchard/takeaway-challenge) |
 | :---: | :---: | :---: |
-| Find the movies in the closest cinemas around you. | Match Makers for Pair Programming. | Order a Takeaway. |
+| Find the movies in the closest cinemas around. | Match Makers for Pair Programming. | Order a Takeaway. |
 | 4-people, 2 weeks | 4-people, 2 days | Solo, 1 weekend |
 | AngularJS, NodeJS | Rails, PostgreSQL | Ruby, Twilio API |
 
