@@ -2,6 +2,14 @@
 
 Web lover. Emerging markets enthusiast. Passionate junior full stack web developer. I love to write clean, lean and fun code. In March 2015, I began a 12-weeks immersive and intensive web-development course (while finishing University) at Makers Academy, during which I met a lot of amazing people, wrote a lot of code and worked on great projects!
 
+####Not a CS graduate
+
+Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to;
+
+- Unlearn 3 years of mostly superceded dogma with no real-world experience  
+- Contribute immediately with practical knowledge of researching, designing, testing, developing, debugging and deploying  
+- Learn how to learn myself so I can migrate to whatever languages and frameworks a task requires
+
 Recent Projects
 ---------------
 
