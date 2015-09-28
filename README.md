@@ -7,7 +7,7 @@ Selected Projects
 
 | [Movies Around Me](https://github.com/MoviesAroundMe/MoviesAroundMe2/tree/development) | [MakerMix](https://github.com/Makermix/pair_helper) | [Takeaway Challenge](https://github.com/Tomiblanchard/takeaway-challenge) |
 | :---: | :---: | :---: |
-| Find the movies in the closest cinemas around. API is now deprecated, learned a lesson. | Match Makers for Pair Programming. | Order a Takeaway. |
+| Find the movies in the closest cinemas around. Our main API is now deprecated, learned a lesson on dependencies. | Match Makers for Pair Programming. | Order a Takeaway. |
 | 4-people, 2 weeks | 4-people, 2 days | Solo, 1 weekend |
 | AngularJS, NodeJS | Rails, PostgreSQL | Ruby, Twilio API |
 
