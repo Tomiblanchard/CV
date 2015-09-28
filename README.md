@@ -103,4 +103,4 @@ Because I haven't got an evil Computer Sciences degree you won't have to wait 6 
 
 #### [Seloger.com](http://www.seloger.com/)
 #####SEO/SEM and Google Analytics Intern
-######Full time, May to Jube 2011 &nbsp; | &nbsp; Paris, France
+######Full time, May to June 2011 &nbsp; | &nbsp; Paris, France
