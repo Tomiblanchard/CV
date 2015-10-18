@@ -1,6 +1,6 @@
 ## Tomi Blanchard
 
-Web lover. Emerging markets enthusiast. Passionate junior full stack web developer. I love to write clean, lean and fun code. In March 2015, I began a 12-weeks immersive and intensive web-development course (while finishing University) at Makers Academy, during which I met a lot of amazing people, wrote a lot of code and worked on great projects!
+Web lover. Passionate junior full stack web developer. I love to write clean, lean and fun code. In March 2015, I began a 12-weeks immersive and intensive web-development course (while finishing University) at Makers Academy, during which I met a lot of amazing people, wrote a lot of code and worked on great projects!
 
 Selected Projects
 ---------------
